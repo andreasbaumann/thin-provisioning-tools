@@ -4,6 +4,8 @@ Introduction
 A suite of tools for manipulating the metadata of the dm-thin, dm-cache and
 dm-era device-mapper targets.
 
+This is the last version 0.9.0 written in C++ (branch `cpp`).
+
 Requirements
 ============
 
